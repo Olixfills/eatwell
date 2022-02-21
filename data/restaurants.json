@@ -1,0 +1,22 @@
+[{
+    "name": "The Ruth Chaory",
+    "address": "Pedro Road, Shomolu Bariga",
+    "cuisine": "African",
+    "website": "www.theruthchaory.com",
+    "description": "They have the best meals in Lagos",
+    "username": "Shasha"
+}, {
+    "name": "Iya Otiti Foods",
+    "address": "Somewhere in Lag",
+    "cuisine": "African",
+    "website": "",
+    "description": "its cool",
+    "username": "moa"
+}, {
+    "name": "Lizzy Fries",
+    "address": "Liz lane, ikoyi",
+    "cuisine": "Fries",
+    "website": "https://lizzyfries.com.ng",
+    "description": "they have great sauce",
+    "username": "Her Boyfriend"
+}]
